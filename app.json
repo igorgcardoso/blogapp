@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bogapp",
-    "slug": "bogapp",
+    "name": "blogapp",
+    "slug": "blogapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
